@@ -1,1 +1,7 @@
-男性的BMI指数的衡量标准是22,女性的BMI指数的衡量标准是19。
+Underweight:18.5
+
+Normalweight:18.5-25
+
+Overweight:25-30
+
+Obese:30
